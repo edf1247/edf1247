@@ -8,8 +8,8 @@ I'm currently exploring the application of multimodal machine learning solutions
 <summary>⚡️ More about my coding life</summary>
 <br />
 
-![Top Langs](https://github-readme-stats-clone-azure.vercel.app/api/top-langs/?username=edf1247&layout=compact&hide=css,html)
-
-![My github stats](https://github-readme-stats-clone-azure.vercel.app/api?username=edf1247&count_private=true&show_icons=true&theme=onedark)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 </details>
