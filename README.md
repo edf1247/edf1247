@@ -8,8 +8,8 @@ I'm currently exploring the application of multimodal machine learning solutions
 <summary>⚡️ More about my coding life</summary>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edf1247&layout=compact&hide=css,html)
+![Top Langs](https://github-readme-stats-clone-azure.vercel.app/api/top-langs/?username=edf1247&layout=compact&hide=css,html)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=edf1247&count_private=true&show_icons=true&theme=onedark)
+![My github stats](https://github-readme-stats-clone-azure.vercel.app/api?username=edf1247&count_private=true&show_icons=true&theme=onedark)
 
 </details>
